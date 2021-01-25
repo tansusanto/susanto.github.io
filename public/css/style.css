@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: white;
+    overflow-x: hidden;
+    font-family: sans-serif;
+}
+.logo img{
+    width: 30%;
+    position: absolute;
+    right: 20px;
+    top: 30px;
+}
+.latar img{
+    width: 85%;
+    position: absolute;
+    top: 25%;
+    left: 8%;
+}
+.latar h1{
+    display: flex;
+    font-size: 24px;
+    text-align: center;
+    color: rgb(61, 61, 61);
+    position: absolute;
+    top: 68%;
+    margin: 12px;
+}
+.latar p{
+    display: flex;
+    font-size: 14px;
+    text-align: center;
+    color: rgb(61, 61, 61);
+    position: absolute;
+    top: 75%;
+    margin: 12px;
+}
+.lanjut img{
+    position: absolute;
+    right: 30px;
+    bottom: 15px;
+}
